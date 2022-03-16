@@ -3,7 +3,7 @@
 ## Run this project on a local machine
 
 * Clone this repository
-  * `git clone <repository-url>`
+  * `git clone https://github.com/Oxvsys/Inventory.git`
   
 ## Commands
 * `pip install -r requirements.txt`
